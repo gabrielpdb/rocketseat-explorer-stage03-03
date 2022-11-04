@@ -78,6 +78,7 @@ main {
   object-fit: cover;
   border-radius: 6px;
   transition: all 200ms;
+  filter: brightness(0.5) saturate(1.5);
 }
 
 .card img:hover {
